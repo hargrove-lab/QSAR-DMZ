@@ -1,20 +1,9 @@
 # QSAR-DMZ
-# Requirements
-#### Python == 3.9.5
-- RDKit
-- Numpy
-- Pandas
+## Requirements
 #### RStudio == 1.4.1717
-- Prospectr
-- Rgl
+- car
 - Ggplot2
-- ggfortify
-- Magrittr
 - Glmnet
-- Tree
-- randomForest
-- Gbm
-- matlib
 #### MATLAB == R2020a
-# More Information
+## More Information
 For more information, please refer to our paper:
